@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_gender</name>
+   <name>input_city</name>
    <tag></tag>
-   <elementGuidId>c4f94a65-472f-4d17-ab91-251b31c9bf3f</elementGuidId>
+   <elementGuidId>344f5486-0ecb-4359-a3d2-c2cc0bdc0c37</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>.//option[@value=&quot;Male&quot;]</value>
+         <value>//input[@name='patient_city']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>.//option[@value=&quot;Male&quot;]</value>
+      <value>//input[@name='patient_city']</value>
    </webElementProperties>
 </WebElementEntity>

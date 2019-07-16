@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_address</name>
+   <name>input_pharmacy No</name>
    <tag></tag>
-   <elementGuidId>42d2160f-0439-437c-af9f-125394697bcf</elementGuidId>
+   <elementGuidId>334eb4b9-ecd6-4f31-a96b-f13a79e773c4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>.//input[@name=&quot;patient_home_address_1&quot;]</value>
+         <value>//input[@name='pharmacy_phone']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>.//input[@name=&quot;patient_home_address_1&quot;]</value>
+      <value>//input[@name='pharmacy_phone']</value>
    </webElementProperties>
 </WebElementEntity>
