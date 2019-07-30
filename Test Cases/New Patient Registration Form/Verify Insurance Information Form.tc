@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Insurance Information Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3db6994-8392-4869-a121-e3b6a25e668c</testCaseGuid>
+   <variable>
+      <defaultValue>'Trizah'</defaultValue>
+      <description></description>
+      <id>0f8021af-de0b-40a9-bb34-eb3ec423545d</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Wambui'</defaultValue>
+      <description></description>
+      <id>c8cfd83a-3a1d-4ab6-a029-43323af352cf</id>
+      <masked>false</masked>
+      <name>middlename</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kamau'</defaultValue>
+      <description></description>
+      <id>0c0c9210-bf81-4637-88fb-4e4413ca23fe</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'preacher'</defaultValue>
+      <description></description>
+      <id>7171ba63-dfc7-4846-ba7f-5e290f05289b</id>
+      <masked>false</masked>
+      <name>relationship</name>
+   </variable>
+   <variable>
+      <defaultValue>'5545'</defaultValue>
+      <description></description>
+      <id>e5bf4b62-1a89-4d89-92f9-26df9d19615f</id>
+      <masked>false</masked>
+      <name>ssn</name>
+   </variable>
+</TestCaseEntity>
