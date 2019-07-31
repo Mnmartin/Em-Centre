@@ -62,13 +62,6 @@
       <name>zip</name>
    </variable>
    <variable>
-      <defaultValue>'martin@gmail.com'</defaultValue>
-      <description></description>
-      <id>b77f3b0a-8694-4e2c-b4a8-4ee8c746ddea</id>
-      <masked>false</masked>
-      <name>email</name>
-   </variable>
-   <variable>
       <defaultValue>'223-566-1568'</defaultValue>
       <description></description>
       <id>80a607c6-57a4-4e5e-b66a-9730a55aa332</id>

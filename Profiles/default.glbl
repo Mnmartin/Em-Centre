@@ -9,4 +9,9 @@
       <initValue>'www.projects.headerguru.com/eastwaymedical/'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'njoroge@gmail.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
