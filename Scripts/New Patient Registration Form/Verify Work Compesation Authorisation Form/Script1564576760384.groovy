@@ -58,5 +58,7 @@ WebUI.click(findTestObject('New Patient Registration Form/Work Compesation Autho
 WebUI.uploadFile(findTestObject('New Patient Registration Form/Work Compesation Authorisation Form/patient_signature'), 
     patient_signature)
 
+WebUI.click(findTestObject('New Patient Registration Form/Work Compesation Authorisation Form/agreement_checkbox'))
+
 WebUI.click(findTestObject('New Patient Registration Form/Work Compesation Authorisation Form/submit_btn'))
 
